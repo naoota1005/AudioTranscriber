@@ -1,0 +1,20 @@
+AudioTranscriber uses the following third-party components:
+
+NAudio 2.2.1: MIT, NAudio.txt. WDL resampler is distributed by NAudio with Cockos permission; see WDL-resampler.txt.
+Whisper.net 1.9.1 and native runtime packages: MIT, Whisper.net.txt.
+whisper.cpp / ggml: MIT, whisper.cpp.txt.
+OpenAI Whisper model weights: MIT, Whisper-models.txt.
+Silero VAD: MIT, Silero-VAD.txt.
+.NET 8 runtime and WPF: MIT, dotnet-runtime.txt, dotnet-wpf.txt.
+
+NVIDIA CUDA 12.4 redistributable components (cudart, cuBLAS, cuBLASLt):
+Copyright NVIDIA Corporation. See NVIDIA-CUDA-12.4-EULA.html.
+Source: official ggml-org/whisper.cpp v1.9.2 CUDA 12.4 release distribution.
+https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.2
+
+Microsoft Visual C++ runtime components (vcruntime140, vcruntime140_1, msvcp140, vcomp140):
+Copyright Microsoft Corporation. App-local redistributable runtime components.
+https://learn.microsoft.com/en-us/cpp/windows/redistributing-visual-cpp-files
+https://visualstudio.microsoft.com/license-terms/vs2022-cruntime/
+
+No third-party software ownership is claimed by AudioTranscriber.

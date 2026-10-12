@@ -1,0 +1,38 @@
+[
+  {
+    "type": "file",
+    "oid": "a6344aac8c09253b3b630fb776ae94478aa0275b",
+    "size": 1519,
+    "path": ".gitattributes"
+  },
+  {
+    "type": "file",
+    "oid": "5aee65638bcdc878278ed393aa1bf76d31fc45ab",
+    "size": 182,
+    "path": "README.md"
+  },
+  {
+    "type": "file",
+    "oid": "fc9badd35b4943860b708554fcd76419312e7157",
+    "size": 885098,
+    "lfs": {
+      "oid": "29940d98d42b91fbd05ce489f3ecf7c72f0a42f027e4875919a28fb4c04ea2cf",
+      "size": 885098,
+      "pointerSize": 131
+    },
+    "xetHash": "ff2f9de221d03b83c89e91598012a434a6572ae6ac2d272d08788f510be686d8",
+    "path": "ggml-silero-v5.1.2.bin"
+  },
+  {
+    "type": "file",
+    "oid": "119d1edabf604ecce0c2b7304072ad24462866e0",
+    "size": 885098,
+    "lfs": {
+      "oid": "2aa269b785eeb53a82983a20501ddf7c1d9c48e33ab63a41391ac6c9f7fb6987",
+      "size": 885098,
+      "pointerSize": 131
+    },
+    "xetHash": "b65ad872758ea4ac85ec18aa132b384d91804f52799c70edc80f8fdb0420e1a5",
+    "path": "ggml-silero-v6.2.0.bin"
+  }
+]

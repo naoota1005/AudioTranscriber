@@ -1,0 +1,16 @@
+work/
+outputs/
+**/bin/
+**/obj/
+.vs/
+*.user
+**/audio/
+**/temp/
+**/sessions/
+**/logs/
+**/diagnostic-data/
+**/crash-test-data/
+**/settings.json
+*.wav
+*.pcm
+.env*
